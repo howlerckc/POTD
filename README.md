@@ -1,22 +1,18 @@
 # POTD
-Product of the Day
-Product of the Day listings for JVZoo and WarriorPlus
+
+Bebo Product of the Day
+
+Setup
+
+-This room will display the Products of the day on JVZoo and WarirorPlus networks.
+-Custom Room select custom room.
+-Contacts dont enter a URL but instead simply type "POTD"
 
 
-#Get the Files
-```
-git clone <https://github.com/howlerckc/POTD>
-cd POTD
-```
+Feature Requests
 
-#Setup
-```
-npm install
-npm start
-```
+Please DM to @howlerckc on Twitter
 
-#Release
+Bugs
 
-```
-npm release
-```
+Please create an issue and clearly explan the bug and how I can recreate it.
